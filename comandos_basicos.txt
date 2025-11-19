@@ -170,6 +170,9 @@ Merge con master de un fork
 	git merge upstream/master
 
 
+Esta linea es un nuevo cambio, nota no es ningun comando de Git
+
+
 
 
   
